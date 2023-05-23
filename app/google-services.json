@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "1083276753268",
+    "firebase_url": "https://tuhoc-4664a-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "tuhoc-4664a",
+    "storage_bucket": "tuhoc-4664a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083276753268:android:aca14f9490933e965bd421",
+        "android_client_info": {
+          "package_name": "com.example.bai23firebase2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1083276753268-o8ukd7vpqbrffcnub12vuslrnumfh20l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHgdR_KnvGqYMQur__M9soW-mZxk66WLk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1083276753268-o8ukd7vpqbrffcnub12vuslrnumfh20l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083276753268:android:eca00d0800f143ce5bd421",
+        "android_client_info": {
+          "package_name": "com.example.chattingapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1083276753268-o8ukd7vpqbrffcnub12vuslrnumfh20l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHgdR_KnvGqYMQur__M9soW-mZxk66WLk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1083276753268-o8ukd7vpqbrffcnub12vuslrnumfh20l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
